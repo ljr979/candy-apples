@@ -12,15 +12,15 @@ role: PhD student
 organizations:
 - name: University of Wollongong
   url: https://www.uow.edu.au/
-  
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include protein aggregation, molecular chaperones, and my cat, Winston.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Protein Aggregation in Neurodegeneration
+- Single-molecule fluorescence 
+- Cats
 
 # Education to show in About widget
 education:
